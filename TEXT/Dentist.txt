@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=4b3yvjcPLnk
+Build A Dental Website - Python Django Dentist Website #1
+
+https://www.youtube.com/watch?v=Ghm2nksiX6c
+Install Coding Tools - Python Django Dentist Website #2
+
+https://www.youtube.com/watch?v=nWBgg2QXtSA&t=3s
+Set Up Our Project - Python Django Dentist Website #3
+
+https://www.youtube.com/watch?v=cUaZ0ElJ760
+Using Fancy HTML Templates In Django - Python Django Dentist Website #4
+
+
+
+https://www.youtube.com/watch?v=w4ilq6Zk-08
+Contact Pages in Django - Python Django Dentist Website #6
+

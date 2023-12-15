@@ -1,0 +1,65 @@
+sudo apt-get update
+python --version
+pip --version
+python -m venv virt
+source virt/Scripts/activate
+pip freeze
+pip install mysql
+pip install django
+pip freeze > requirements.txt
+pip freeze
+
+django-admin startproject projects .
+
+cd projects
+
+mypy events/models.py
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py startapp events 
+python manage.py startapp members
+python manage.py startapp myblog
+python manage.py startapp payments
+python manage.py startapp subscriptions
+python manage.py startapp blogs
+python manage.py collectstatic
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
+heroku login
+heroku git:remote -a capecraftprojects
+git remote -v
+heroko create capecrafttesting
+
+
+
+
+
+# Configure Django STORAGES
+DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
+GS_BUCKET_NAME = 'your-firebase-storage-bucket-name'
+GS_PROJECT_ID = 'your-firebase-project-id'
+GS_MEDIA_BUCKET_NAME = 'your-firebase-storage-bucket-name'  # Optional, if you want to separate media files
+
+# Configure Firebase Storage
+import firebase_admin
+from firebase_admin import credentials
+
+FIREBASE_STORAGE_BUCKET = 'your-firebase-storage-bucket-name'
+
+# Load the service account key file downloaded from Firebase
+cred = credentials.Certificate('path/to/service-account-key.json')
+firebase_admin.initialize_app(cred, {'storageBucket': FIREBASE_STORAGE_BUCKET})
+
+# ...
+
+
+<img src="{% static 'blog/img/favicon-16x16.png' %}" class="" alt="My image">
+
+  <link rel="shortcut icon" type="image/png" href="{% static 'img/favicon-16x16.png' %}" >
+
+
+

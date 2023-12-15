@@ -1,0 +1,147 @@
+https://getbootstrap.com/docs/4.3/components/navbar/
+
+
+https://www.youtube.com/watch?v=4EJlrweJE-M&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=2
+How To Add A Calendar To Your Website - Django Wednesdays #2
+
+https://www.youtube.com/watch?v=4EJlrweJE-M&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=4
+How To Add A Calendar To Your Website - Django Wednesdays #2
+
+https://www.youtube.com/watch?v=NVeV7Y3BkF4&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=3
+How To Use Templates and Custom HTML - Django Wednesdays #3
+
+https://www.youtube.com/watch?v=z5e_8FgKZig&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=4 
+ Using Multiple Database Tables With Django - Django Wednesdays #4 
+
+https://www.youtube.com/watch?v=H3joYTIRqKk&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=5 
+Fetch Data From a Database And Output To A Webpage - Django Wednesdays #5
+
+https://www.youtube.com/watch?v=_7Fi9dpw-ew&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=6
+How To Modify The Django Admin Area - Django Wednesdays #6
+
+https://www.youtube.com/watch?v=CVEKe39VFu8&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=7
+How To Add Database Forms To A Web Page - Django Wednesdays #7
+
+https://www.youtube.com/watch?v=JaBPryYdHbc&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=8
+How To Query The Database For Venues - Django Wednesdays #8
+
+https://www.youtube.com/watch?v=AGtae4L5BbI&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=9
+Create A Search Bar - Django Wednesdays #9
+
+https://www.youtube.com/watch?v=jCM-m_3Ysqk&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=10
+Update and Edit Venues - Django Wednesdays #10
+
+https://www.youtube.com/watch?v=x99hW1N8Nug&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=11
+Create An Add Event Page - Django Wednesdays #11
+
+https://www.youtube.com/watch?v=vLOPkuAbEAY&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=12
+
+https://www.youtube.com/watch?v=CTrVDi3tt8o&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=21
+Create An Update Events Page - Django Wednesdays #12
+
+############### Members ######################################################################
+
+https://www.youtube.com/watch?v=CTrVDi3tt8o&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=21
+Login With User Authentication - Django Wednesdays #21
+
+https://www.youtube.com/watch?v=BTq0MAIJEH8&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=22
+Log Out With User Authentication - Django Wednesdays #22
+
+https://www.youtube.com/watch?v=E-nxGwGYRXY&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=23
+Navbar Dropdown Menus - Django Wednesdays #23
+
+https://www.youtube.com/watch?v=EqjRhO5CK6A&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=24
+How To Register Users - Django Wednesdays #24
+
+https://www.youtube.com/watch?v=HdrOcreAXKk&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=25
+Add Extra Registration Fields - Django Wednesdays #25
+
+https://www.youtube.com/watch?v=XapMxdIyLM8&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=26
+Style Django Registration Forms - Django Wednesdays #26
+
+https://www.youtube.com/watch?v=cb1Pr8-m5YE&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=27
+Lock Down Your Django App - Django Wednesdays #27
+
+https://www.youtube.com/watch?v=hHJDbKxw4Lc&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=28
+Determine Correct User To Edit Events - Django Wednesdays #28
+
+https://www.youtube.com/watch?v=fXKLLwdryHQ&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=29
+Add Venue Owner - Django Wednesdays #29
+
+https://www.youtube.com/watch?v=z8m9MW56hkg&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=30
+Use Different Forms For Different Users - Django Wednesdays #30
+
+https://www.youtube.com/watch?v=b7nmrEnurPk&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=31
+Only Let Manger Delete Event - Django Wednesdays #31
+
+https://www.youtube.com/watch?v=o3uENVkMcu8&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=32
+Access Venue Owner - Django Wednesdays #32
+
+https://www.youtube.com/watch?v=aiMS8Xd_E0M&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=33
+Add My_Events Page - Django Wednesdays #33
+
+https://www.youtube.com/watch?v=MDO0GdiHEU4&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=34
+Search Events - Django Wednesdays #34
+
+https://www.youtube.com/watch?v=rxF-tNfYUto&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=35
+Style Venue Search Results - Django Wednesdays #35
+
+https://www.youtube.com/watch?v=4AnwvUJGJzw&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=36
+Query Filter Events By Date - Django Wednesdays #36
+
+https://www.youtube.com/watch?v=bE23wioMGao&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=37
+Django 4.0 Release Notes! - Django Wednesdays #37
+
+https://www.youtube.com/watch?v=O5YkEFLXcRg&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=38
+Upload Images To Django - Django Wednesdays #38
+
+https://www.youtube.com/watch?v=bNXmU-941iY&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=39
+Edit Uploaded Images - Django Wednesdays #39
+
+https://www.youtube.com/watch?v=zPxVW3a-aRs&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=40
+How To Add Calculated Fields To Models - Django Wednesdays #40
+
+https://www.youtube.com/watch?v=6YxyKBl0M-g&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=41
+Remove Groups From Admin Site - Django Wednesdays #41
+
+https://www.youtube.com/watch?v=pwkAMX1zgOI&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=42
+Event Approval - Django Wednesdays #42
+
+https://www.youtube.com/watch?v=FzV_Py68Y_I&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=43
+Build An Event Approval Page With Checkboxes - Django Wednesdays #43
+
+https://www.youtube.com/watch?v=a0hGlrYLqDc&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=44
+Count The Number Of Events and Venues - Django Wednesdays #44
+
+https://www.youtube.com/watch?v=hyzM1lpc6Rs&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=45
+Show All Events By Venue - Django Wednesdays #45
+
+https://www.youtube.com/watch?v=ey8EXTjRuag&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=46
+Build A Website With Django 4.0! - Django Wednesdays #46
+
+https://www.youtube.com/watch?v=dtmmwTHSzT0&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy&index=47
+List Events On Venue Pages - Django Wednesdays #47
+
+
+###################  HEROKU 
+
+https://www.youtube.com/watch?v=RRFxHju8pWM&t=801s
+Custom Heroku Domain Names - Python Django Dentist Website #12
+
+
+
+
+
+
+
+
+Add Extra Registration Fields - Django Wednesdays #25
+
+https://www.youtube.com/watch?v=ygzGr51dbsY
+How To Upload Images With Django - Django Blog #26
+
+*****BLOGS*****
+https://www.youtube.com/watch?v=UmljXZIypDc&list=PLCC34OHNcOtr025c1kHSPrnP18YPB-NFi&index=1 
+
+https://www.youtube.com/watch?v=B40bteAMM_M&list=PLCC34OHNcOtr025c1kHSPrnP18YPB-NFi&index=1
+Create A Simple Blog With Python and Django - Django Blog #1

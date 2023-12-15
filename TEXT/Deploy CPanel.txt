@@ -1,0 +1,32 @@
+https://www.youtube.com/watch?v=h2w8oNw_W80
+
+pip freeze > requirements.txt
+
+source /home/admin/virtualenv/autosite/3.9/bin/activate && cd /home/admin/autosite
+
+pip install -r requirements.txt 
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py dumpdata>data.json
+
+python manage.py loaddata data.json
+
+python manage.py collectstatic
+
+manage.py check --deploy
+
+_____________________________
+CPANEL 
+
+pip install mysqlclient
+
+python manage.py collectstatic
+
+
+
+
+
+
