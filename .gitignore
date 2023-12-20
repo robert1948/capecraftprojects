@@ -62,7 +62,10 @@ parts/
 sdist/ 
 var/ 
 wheels/ 
+<<<<<<< HEAD
 *.whl
+=======
+>>>>>>> refs/remotes/origin/main
 *.egg-info/ 
 .installed.cfg 
 *.egg 
@@ -135,8 +138,12 @@ GitHub.sublime-settings
 !.vscode/tasks.json 
 !.vscode/launch.json 
 !.vscode/extensions.json 
+<<<<<<< HEAD
 .history
 
 # Text
 *.txt
 /TEXT
+=======
+.history
+>>>>>>> refs/remotes/origin/main
